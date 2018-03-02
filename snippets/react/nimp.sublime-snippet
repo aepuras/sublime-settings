@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+import $1 from "$2";
+]]></content>
+    <tabTrigger>nimp</tabTrigger>
+    <scope>source.js -(meta)</scope>
+    <description>js import</description>
+</snippet>

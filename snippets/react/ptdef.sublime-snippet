@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+${TM_FILENAME/(.+)\..+|.*/$1/:ComponentName}.propTypes = {
+	${1}
+};
+]]></content>
+    <tabTrigger>ptdef</tabTrigger>
+    <scope>source.js -(meta)</scope>
+    <description>PropTypes definition</description>
+</snippet>

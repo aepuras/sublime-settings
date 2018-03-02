@@ -1,0 +1,6 @@
+{
+   "completions":
+   [
+      { "trigger": "acrn", "contents": "<acronym>$0</acronym>" }
+   ]
+}

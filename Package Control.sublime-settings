@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Babel",
+		"ColorPicker",
+		"CSScomb",
+		"Emmet",
+		"ESLint",
+		"Git",
+		"GitGutter",
+		"GitSavvy",
+		"JsPrettier",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeREPL",
+		"Terminal"
+	]
+}
